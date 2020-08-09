@@ -1,5 +1,7 @@
 # WhoIsFinder
 
+Install Python3.6.8
+
 Install ipwhois to use the script
 
 ## Description
